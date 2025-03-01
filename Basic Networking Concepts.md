@@ -67,7 +67,7 @@ A **unique identifier** assigned to each device on a network, enabling communica
    - Limited to ~4.3 billion addresses (exhausted due to internet growth).  
 
 2. **IPv6**:  
-   - 128-bit address using hexadecimal, written as eight groups: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`.  
+   - 128-bit hexadecimal address, written as eight groups: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`.  
    - Solves IPv4 scarcity, offering ~340 undecillion addresses.  
 
 - **Public vs. Private IPs**:  
@@ -80,8 +80,8 @@ A **unique identifier** assigned to each device on a network, enabling communica
 The **"phonebook of the internet"** that translates human-friendly domain names (e.g., `google.com`) to machine-readable IP addresses (e.g., `172.217.14.206`).  
 
 1. **How DNS Works**:  
-   - **Step 1**: You type `example.com` into a browser.  
-   - **Step 2**: Your device queries a **DNS resolver** (usually your ISP).  
+   - **Step 1**: Type `example.com` into a browser.  
+   - **Step 2**: The device queries a **DNS resolver** (usually device ISP).  
    - **Step 3**: The resolver asks **root servers**, which direct it to **Top-Level Domain (TLD) servers** (e.g., `.com`).  
    - **Step 4**: TLD servers point to the **authoritative DNS server** for `example.com`, which returns the IP.  
    - **Step 5**: The resolver caches the IP for future use.  
