@@ -1,9 +1,9 @@
-## Understanding Operating Systems: A Structured Overview**
+## Understanding Operating Systems: A Structured Overview
 
-**1. Definition of an Operating System (OS):**  
+### 1. Definition of an Operating System (OS):**  
 An OS is software that acts as an intermediary between users/applications and computer hardware. It manages hardware (CPU, memory, devices) and software resources, ensuring efficient allocation and coordination.
 
-**2. Core Functions of an OS:**  
+### 2. Core Functions of an OS:**  
 - **Process Management:**  
   - Handles process creation, scheduling, and termination.  
   - Manages multitasking (e.g., time-sharing CPU resources) and resolves deadlocks.  
@@ -28,7 +28,7 @@ An OS is software that acts as an intermediary between users/applications and co
 - **User Interface (UI):**  
   - Provides interaction via Graphical UI (GUI) like macOS Desktop or Command-Line (CLI) like Linux Terminal.  
 
-**3. Types of Operating Systems:**  
+### 3. Types of Operating Systems:**  
 - **Single-User:**  
   - Supports one user at a time but allows multitasking (e.g., running a browser and Word simultaneously).  
   - *Examples:* Windows 10, macOS.  
