@@ -2,8 +2,6 @@
 
 ## Networking
 
-A comprehensive guide to networking concepts, architectures, protocols, and tools.  
-
 ---
 
 ### Table of Contents  
@@ -21,3 +19,18 @@ A comprehensive guide to networking concepts, architectures, protocols, and tool
    - Subnetting, VPNs, network automation, and IPv6 adoption.  
 
 ---
+
+
+
+# Operating System  
+
+### Table of Contents  
+1. [Basic Concepts](./Basic%20Concepts.md)  
+2. [Process Management](./Process%20Management.md)  
+3. [Memory Management](./Memory%20Management.md)  
+4. [File Systems](./File%20Systems.md)  
+5. [Input/Output Management](./Input%5COutput%20Management.md)  
+6. [Kernel Architecture & Multithreading](./Kernel%20Architecture%20%26%20Multithreading.md)    
+7. [Security and Protection](./Security%20and%20Protection.md)  
+8. [Interprocess Communication (IPC)](./Interprocess%20Communication.md)  
+9. [Advanced Topics](./Advanced%20Topics.md)  
