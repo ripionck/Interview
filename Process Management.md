@@ -1,5 +1,3 @@
-## Process Management
-
 ## 🔄 Process States  
 A process transitions through the following states during its lifecycle:  
 - **New**: Process is being created.  
