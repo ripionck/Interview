@@ -1,7 +1,5 @@
 ## Networking
 
----
-
 ### Table of Contents  
 1. [Basic Networking Concepts](Basic%20Networking%20Concepts.md)    
 2. [Network Architectures](Network%20Architectures.md)
@@ -15,8 +13,6 @@
 
 
 ## Operating System  
-
----
 
 ### Table of Contents  
 1. [Basic Concepts](./Basic%20Concepts.md)  
